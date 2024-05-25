@@ -5,12 +5,16 @@ This project conducts exploratory analysis of world language families using geog
 # Data Source
 Hammarström, Harald & Haspelmath, Martin & Forkel, Robert. 2017. Glottolog 3.0.
 Jena: Max Planck Institute for the Science of Human History.
+
 Kaggle Dataset Link: World Language Family Map
 
 # Purpose
 The primary goal of this project is to:
+
 Visualize the distribution of world languages and dialects.
+
 Identify extinct languages and their locations.
+
 Cluster language families based on geographic proximity.
 
 # Problem Addressed
@@ -18,9 +22,13 @@ This project tackles the challenge of understanding the geographical distributio
 
 # Learning Outcomes
 During the development of this project, valuable experience was gained in:
+
 Data manipulation and analysis with Pandas.
+
 Geographic data visualization with Geopandas and Matplotlib.
+
 Clustering techniques using Scikit-learn.
+
 Handling geographical coordinates and spatial data.
 
 # Unique Features
@@ -29,16 +37,21 @@ What sets this project apart is its focus on analyzing linguistic data in a geog
 # How It Works
 # Language Distribution Visualization
 Map Plotter:
+
 Utilizes Geopandas and Matplotlib to plot the distribution of languages and dialects on a world map.
 
 # Extinct Languages Identification
 Extinct Languages Plotter:
+
 Identifies and visualizes the locations of extinct languages based on provided data.
+
 Offers insights into the historical distribution of languages.
 
 # Language Family Clustering
 Cluster Plotter:
+
 Applies DBSCAN clustering algorithm to group language families based on geographic proximity.
+
 Visualizes clustered language families on a world map.
 
 # Future Enhancements
