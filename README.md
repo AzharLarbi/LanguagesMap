@@ -56,5 +56,7 @@ Visualizes clustered language families on a world map.
 
 # Future Enhancements
 Improve clustering algorithms for more accurate grouping.
+
 Incorporate additional linguistic and geographical data sources for comprehensive analysis.
+
 Develop interactive visualizations for enhanced exploration.
