@@ -52,9 +52,10 @@ Applies DBSCAN clustering algorithm to group language families based on geograph
 
 Visualizes clustered language families on a world map.
 
+# Interactive Dashboard
+Utilizes PowerBI to create an interactive dashboard.
+
 # Future Enhancements
 Improve clustering algorithms for more accurate grouping.
 
 Incorporate additional linguistic and geographical data sources for comprehensive analysis.
-
-Develop interactive visualizations for enhanced exploration.
