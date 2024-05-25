@@ -6,8 +6,6 @@ This project conducts exploratory analysis of world language families using geog
 Hammarström, Harald & Haspelmath, Martin & Forkel, Robert. 2017. Glottolog 3.0.
 Jena: Max Planck Institute for the Science of Human History.
 
-Kaggle Dataset Link: World Language Family Map
-
 # Purpose
 The primary goal of this project is to:
 
